@@ -12,21 +12,21 @@
   "Subject": [
     {
       "Code": "CSC165",
-      "Name": "Discrete Structure ",
+      "Name": "Discrete Structure",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
     },
     {
       "Code": "CSC166",
-      "Name": "Object Oriented Programming ",
+      "Name": "Object Oriented Programming",
       "CreditHours": 3,
       "GradePoint": 3,
       "Grade": "B"
     },
     {
       "Code": "CSC167",
-      "Name": "Microprocessor ",
+      "Name": "Microprocessor",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"

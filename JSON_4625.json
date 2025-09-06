@@ -32,7 +32,7 @@
       "Grade": "B+"
     },
     {
-      "Code": "MTH 117",
+      "Code": "MTH117",
       "Name": "Mathematics I",
       "CreditHours": 3,
       "GradePoint": 4,
@@ -40,7 +40,7 @@
     },
     {
       "Code": "PHY118",
-      "Name": "Physics ",
+      "Name": "Physics",
       "CreditHours": 3,
       "GradePoint": 3,
       "Grade": "B"

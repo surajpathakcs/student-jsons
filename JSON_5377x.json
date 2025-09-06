@@ -12,34 +12,34 @@
   "Subject": [
     {
       "Code": "CSC211",
-      "Name": "Data Structure and Algorithm ",
+      "Name": "Data Structure and Algorithms",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
     },
     {
       "Code": "CSC212",
-      "Name": "Numerical Method ",
+      "Name": "Numerical Method",
       "CreditHours": 3,
       "GradePoint": 2.3,
       "Grade": "C"
     },
     {
       "Code": "CSC213",
-      "Name": "Computer  Architecture ",
+      "Name": "Computer Architecture",
       "CreditHours": 3,
       "GradePoint": 2.7,
       "Grade": "B-"
     },
     {
       "Code": "CSC214",
-      "Name": "Computer Graphics ",
+      "Name": "Computer Graphics",
       "CreditHours": 3,
       "GradePoint": 3,
       "Grade": "B"
     },
     {
-      "Code": "CSC215",
+      "Code": "STA215",
       "Name": "Statistics II",
       "CreditHours": 3,
       "GradePoint": 2.7,

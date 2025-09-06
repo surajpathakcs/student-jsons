@@ -12,7 +12,7 @@
   "Subject": [
     {
       "Code": "CSC165",
-      "Name": "Discrete Stuctures",
+      "Name": "Discrete Structure",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
@@ -40,7 +40,7 @@
     },
     {
       "Code": "STA169",
-      "Name": "Statistics",
+      "Name": "Statistics I",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"

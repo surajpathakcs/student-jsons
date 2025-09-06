@@ -4,7 +4,7 @@
   "Level": "Bachelor",
   "RegNo": "5-2-378-46-2022",
   "AcademicYear": "2081",
-  "Semester": "Semester - IV",
+  "Semester": "Semester - II",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
   "SGPA": 2.8,
@@ -40,7 +40,7 @@
     },
     {
       "Code": "STA169",
-      "Name": "Statistics",
+      "Name": "Statistics I",
       "CreditHours": 3,
       "GradePoint": 2.7,
       "Grade": "B-"

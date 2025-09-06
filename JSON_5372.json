@@ -12,7 +12,7 @@
   "Subject": [
     {
       "Code": "CSC211",
-      "Name": "Data Structure and Algorithms",
+      "Name": "Data Structure and Algorithm",
       "CreditHours": 3,
       "GradePoint": 3,
       "Grade": "B"
@@ -40,7 +40,7 @@
     },
     {
       "Code": "STA215",
-      "Name": "Statistics",
+      "Name": "Statistics II",
       "CreditHours": 3,
       "GradePoint": 2.7,
       "Grade": "B-"

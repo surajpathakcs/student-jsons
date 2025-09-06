@@ -12,21 +12,21 @@
   "Subject": [
     {
       "Code": "CSC114",
-      "Name": "Introduction to Information Technology ",
+      "Name": "Introduction to Information Technology",
       "CreditHours": 3,
       "GradePoint": 0,
       "Grade": "Abs"
     },
     {
       "Code": "CSC115",
-      "Name": "C Programming ",
+      "Name": "C Programming",
       "CreditHours": 3,
       "GradePoint": 0,
       "Grade": "F"
     },
     {
       "Code": "CSC116",
-      "Name": "Digital Logic ",
+      "Name": "Digital Logic",
       "CreditHours": 3,
       "GradePoint": 0,
       "Grade": "Abs"

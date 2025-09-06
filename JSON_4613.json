@@ -32,15 +32,15 @@
       "Grade": "B"
     },
     {
-      "Code": "CSC117",
+      "Code": "MTH117",
       "Name": "Mathematics I",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
     },
     {
-      "Code": "CSC118",
-      "Name": "Physics ",
+      "Code": "PHY118",
+      "Name": "Physics",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"

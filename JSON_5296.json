@@ -12,14 +12,14 @@
   "Subject": [
     {
       "Code": "CSC165",
-      "Name": "Discrete Stuctures",
+      "Name": "Discrete Structure",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
     },
     {
       "Code": "CSC166",
-      "Name": "Object Oriented Programming ",
+      "Name": "Object Oriented Programming",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
@@ -40,7 +40,7 @@
     },
     {
       "Code": "STA169",
-      "Name": "Statistics II",
+      "Name": "Statistics I",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
