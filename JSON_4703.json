@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4703",
+  "StudentName": "MILAN KANDEL",
+  "Level": "Bachelor",
+  "RegNo": "5-2-378-32-2022",
+  "AcademicYear": "2080",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.7,
+  "DateOfIssue": "2025-03-14",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Stuctures",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    }
+  ]
+}

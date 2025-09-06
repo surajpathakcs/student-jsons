@@ -1,0 +1,21 @@
+{
+  "ImageName": "IMG_5334",
+  "StudentName": "AADIP RAUT",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-14-2023",
+  "AcademicYear": "2081",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 3,
+  "SGPA": 0,
+  "DateOfIssue": "2025-02-12",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Stuctures",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    }
+  ]
+}

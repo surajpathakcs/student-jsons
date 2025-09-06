@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4704",
+  "StudentName": "NISHES POKHREL",
+  "Level": "Bachelor",
+  "RegNo": "5-2-378-34-2022",
+  "AcademicYear": "2080",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.12,
+  "DateOfIssue": "2025-03-14",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Stuctures",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor",
+      "CreditHours": 3,
+      "GradePoint": 2.7,
+      "Grade": "B-"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    }
+  ]
+}

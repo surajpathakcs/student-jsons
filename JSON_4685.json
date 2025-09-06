@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4685",
+  "StudentName": "AABHA BHANDARI ",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-64-2021",
+  "AcademicYear": "2080",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.46,
+  "DateOfIssue": "2024-03-14",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Structure ",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor ",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "MTH169",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "STA 169",
+      "Name": "Statistics I",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    }
+  ]
+}

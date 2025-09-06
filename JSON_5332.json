@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_5332",
+  "StudentName": "SUHANA DALA MAGAR",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-0070-2023",
+  "AcademicYear": "2081",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.76,
+  "DateOfIssue": "2025-02-12",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Stuctures",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 4,
+      "Grade": "A"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics II",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    }
+  ]
+}

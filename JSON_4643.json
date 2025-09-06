@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4643",
+  "StudentName": "SUJAL NEPAL",
+  "Level": "Bachelor",
+  "RegNo": "5-2-378-45-2022",
+  "AcademicYear": "2079",
+  "Semester": "Semester - I",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.06,
+  "DateOfIssue": "2023-10-17",
+  "Subject": [
+    {
+      "Code": "CSC114",
+      "Name": "Introduction to Information Technology ",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC115",
+      "Name": "C Programming ",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC116",
+      "Name": "Digital Logic ",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "MTH117",
+      "Name": "Mathematics I",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "PHY118",
+      "Name": "Physics",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    }
+  ]
+}

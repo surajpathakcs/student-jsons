@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4693",
+  "StudentName": "APKESHYA PANTHI ",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-20-2021",
+  "AcademicYear": "2080",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 2.94,
+  "DateOfIssue": "2024-03-14",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Structure ",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 2.7,
+      "Grade": "B-"
+    },
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor ",
+      "CreditHours": 3,
+      "GradePoint": 2.7,
+      "Grade": "B-"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics I",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    }
+  ]
+}

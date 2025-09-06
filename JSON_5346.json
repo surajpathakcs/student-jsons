@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_5346",
+  "StudentName": "AADARSHA SUBEDI",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-13-2022",
+  "AcademicYear": "2080",
+  "Semester": "Semester - III",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 0,
+  "DateOfIssue": "2025-09-22",
+  "Subject": [
+    {
+      "Code": "CSC211",
+      "Name": "Data Structures and Algorithm",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "CSC212",
+      "Name": "Numerical Method",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC213",
+      "Name": "Computer Architecture",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "CSC214",
+      "Name": "Computer Graphics",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "STA215",
+      "Name": "Statistics II",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    }
+  ]
+}

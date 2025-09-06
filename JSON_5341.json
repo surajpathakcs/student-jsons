@@ -1,0 +1,28 @@
+{
+  "ImageName": "IMG_5341",
+  "StudentName": "SANCHIT PAUDEL",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-41-2022",
+  "AcademicYear": "2081",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 6,
+  "SGPA": 0,
+  "DateOfIssue": "2025-07-22",
+  "Subject": [
+    {
+      "Code": "CSC 166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "Abs"
+    }
+  ]
+}

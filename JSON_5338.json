@@ -1,0 +1,35 @@
+{
+  "ImageName": "IMG_5338",
+  "StudentName": "NISHESH POKHEREL",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-34-2022",
+  "AcademicYear": "2081",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 9,
+  "SGPA": 0,
+  "DateOfIssue": "2025-02-12",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Stuctures",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics II",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    }
+  ]
+}

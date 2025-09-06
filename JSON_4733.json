@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4733",
+  "StudentName": "ASHIM KAJI SHAKYA",
+  "Level": "Bachelor",
+  "RegNo": "5-2-378-22-2022",
+  "AcademicYear": "2081",
+  "Semester": "Semester - IV",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 0,
+  "DateOfIssue": "2025-03-12",
+  "Subject": [
+    {
+      "Code": "CSC262",
+      "Name": "Theory of Computation",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "CSC263",
+      "Name": "Computer Networks",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "Abs"
+    },
+    {
+      "Code": "CSC264",
+      "Name": "Operating Systems",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "CSC265",
+      "Name": "Database Management System",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "CSC266",
+      "Name": "Artificial Intelligence",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "Abs"
+    }
+  ]
+}

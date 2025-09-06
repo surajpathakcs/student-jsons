@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_5367",
+  "StudentName": "RITESH ARYAL",
+  "Level": "Bachelor",
+  "RegNo": "5-2-378-38-2022",
+  "AcademicYear": "2080",
+  "Semester": "Semester - III",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.32,
+  "DateOfIssue": "2025-09-22",
+  "Subject": [
+    {
+      "Code": "CSC211",
+      "Name": "Data Structure and Algorithms",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "CSC212",
+      "Name": "Numerical Method",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC213",
+      "Name": "Computer Architecture",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC214",
+      "Name": "Computer Graphics",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "STA215",
+      "Name": "Statistics",
+      "CreditHours": 3,
+      "GradePoint": 33,
+      "Grade": "B+"
+    }
+  ]
+}

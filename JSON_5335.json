@@ -1,0 +1,35 @@
+{
+  "ImageName": "IMG_5335",
+  "StudentName": "ADITYA GAUTAM",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-17-2023",
+  "AcademicYear": "2081",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 9,
+  "SGPA": 0,
+  "DateOfIssue": "2025-02-12",
+  "Subject": [
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics II",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    }
+  ]
+}

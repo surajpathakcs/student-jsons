@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_4731",
+  "StudentName": "APEKSHYA GIRI",
+  "Level": "Bachelor",
+  "RegNo": "5-2-378-19-2022",
+  "AcademicYear": "2081",
+  "Semester": "Semester - IV",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 3.06,
+  "DateOfIssue": "2025-03-12",
+  "Subject": [
+    {
+      "Code": "CSC262",
+      "Name": "Theory of Computation",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC263",
+      "Name": "Computer Networks",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC264",
+      "Name": "Operating Systems",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC265",
+      "Name": "Database Management System",
+      "CreditHours": 3,
+      "GradePoint": 3.3,
+      "Grade": "B+"
+    },
+    {
+      "Code": "CSC266",
+      "Name": "Artificial Intelligence",
+      "CreditHours": 3,
+      "GradePoint": 2.7,
+      "Grade": "B-"
+    }
+  ]
+}

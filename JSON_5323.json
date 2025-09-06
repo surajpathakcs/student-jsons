@@ -1,0 +1,49 @@
+{
+  "ImageName": "IMG_5323",
+  "StudentName": "SANMIYOL MAHARJAN",
+  "Level": "Bachelor",
+  "RegNo": "5-2-478-58-2023",
+  "AcademicYear": "2081",
+  "Semester": "Semester - II",
+  "Program": "Bachelors Degree in Computer Science and Information Technology",
+  "TotalCreditHour": 15,
+  "SGPA": 0,
+  "DateOfIssue": "2025-02-12",
+  "Subject": [
+    {
+      "Code": "CSC165",
+      "Name": "Discrete Stuctures",
+      "CreditHours": 3,
+      "GradePoint": 0,
+      "Grade": "F"
+    },
+    {
+      "Code": "CSC166",
+      "Name": "Object Oriented Programming",
+      "CreditHours": 3,
+      "GradePoint": 3,
+      "Grade": "B"
+    },
+    {
+      "Code": "CSC167",
+      "Name": "Microprocessor",
+      "CreditHours": 3,
+      "GradePoint": 2.7,
+      "Grade": "B-"
+    },
+    {
+      "Code": "MTH168",
+      "Name": "Mathematics II",
+      "CreditHours": 3,
+      "GradePoint": 3.7,
+      "Grade": "A-"
+    },
+    {
+      "Code": "STA169",
+      "Name": "Statistics II",
+      "CreditHours": 3,
+      "GradePoint": 2.3,
+      "Grade": "C"
+    }
+  ]
+}
