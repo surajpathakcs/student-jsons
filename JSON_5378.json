@@ -7,21 +7,21 @@
   "Semester": "Semester - III",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 3.2,
-  "DateOfIssue": "2022-09-22",
+  "SGPA": 3.20,
+  "DateOfIssue": "2024-09-22",
   "Subject": [
     {
       "Code": "CSC211",
-      "Name": "Data Structure and Algorithm ",
+      "Name": "Data Structure and Algorithm",
       "CreditHours": 3,
       "GradePoint": 3.7,
       "Grade": "A-"
     },
     {
-      "Code": "CSC 212 ",
-      "Name": "Numerical Method ",
+      "Code": "CSC212",
+      "Name": "Numerical Method",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -32,7 +32,7 @@
       "Grade": "B"
     },
     {
-      "Code": "CSC 214",
+      "Code": "CSC214",
       "Name": "Computer Graphics",
       "CreditHours": 3,
       "GradePoint": 3.3,

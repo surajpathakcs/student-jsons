@@ -1,6 +1,6 @@
 {
   "ImageName": "IMG_5377",
-  "StudentName": "SUNIL KUMAR SAH",
+  "StudentName": "SUNIL KUMAR  SAH",
   "Level": "Bachelor",
   "RegNo": "5-2-378-48-2022",
   "AcademicYear": "2080",
@@ -8,11 +8,11 @@
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
   "SGPA": 2.8,
-  "DateOfIssue": "2025-09-22",
+  "DateOfIssue": "2024-09-22",
   "Subject": [
     {
       "Code": "CSC211",
-      "Name": "Data Structure and Algorithm",
+      "Name": "Data Structure and Algorithms",
       "CreditHours": 3,
       "GradePoint": 3.3,
       "Grade": "B+"
