@@ -7,21 +7,21 @@
   "Semester": "Semester - II",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 0,
+  "SGPA": "",
   "DateOfIssue": "2025-02-12",
   "Subject": [
     {
       "Code": "CSC165",
       "Name": "Discrete Structure",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     },
     {
       "Code": "CSC166",
       "Name": "Object Oriented Programming",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {

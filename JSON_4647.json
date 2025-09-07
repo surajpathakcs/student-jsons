@@ -7,7 +7,7 @@
   "Semester": "Semester - I",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 0,
+  "SGPA": "",
   "DateOfIssue": "2023-10-17",
   "Subject": [
     {
@@ -42,7 +42,7 @@
       "Code": "PHY118",
       "Name": "Physics",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     }
   ]

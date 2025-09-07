@@ -28,14 +28,14 @@
       "Code": "CSC213",
       "Name": "Computer Architecture",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "CSC214",
       "Name": "Computer Graphics",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {

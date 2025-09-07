@@ -7,14 +7,14 @@
   "Semester": "Semester - II",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 2.80,
+  "SGPA": 2.8,
   "DateOfIssue": "2024-03-14",
   "Subject": [
     {
       "Code": "CSC165",
       "Name": "Discrete Stuctures",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {

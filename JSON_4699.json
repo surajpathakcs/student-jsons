@@ -7,14 +7,14 @@
   "Semester": "Semester - II",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 3.00,
+  "SGPA": 3.0,
   "DateOfIssue": "2024-03-14",
   "Subject": [
     {
       "Code": "CSC165",
       "Name": "Discrete Structure",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -28,7 +28,7 @@
       "Code": "CSC167",
       "Name": "Microprocessor",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -42,7 +42,7 @@
       "Code": "STA169",
       "Name": "Statistics I",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]

@@ -21,28 +21,28 @@
       "Code": "CSC115",
       "Name": "C Programming",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "CSC116",
       "Name": "Digital Logic",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "MTH117",
       "Name": "Mathematics I",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "PHY118",
       "Name": "Physics",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]

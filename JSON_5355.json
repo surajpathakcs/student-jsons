@@ -35,14 +35,14 @@
       "Code": "CSC214",
       "Name": "Computer Graphics",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "STA215",
       "Name": "Statistics II",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]

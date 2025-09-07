@@ -7,14 +7,14 @@
   "Semester": "Semester - III",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 0,
+  "SGPA": "",
   "DateOfIssue": "2024-09-22",
   "Subject": [
     {
       "Code": "CSC211",
       "Name": "Data Structure and Algorithm",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     },
     {
@@ -28,21 +28,21 @@
       "Code": "CSC213",
       "Name": "Computer Architecture",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     },
     {
       "Code": "CSC214",
       "Name": "Computer Graphics",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     },
     {
       "Code": "STA215",
       "Name": "Statistics II",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]

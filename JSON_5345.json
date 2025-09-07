@@ -28,7 +28,7 @@
       "Code": "CSC213",
       "Name": "Computer Architecture",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -42,7 +42,7 @@
       "Code": "STA215",
       "Name": "Statistics II",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]

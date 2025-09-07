@@ -7,7 +7,7 @@
   "Semester": "Semester - I",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 0,
+  "SGPA": "",
   "DateOfIssue": "2023-10-17",
   "Subject": [
     {
@@ -21,7 +21,7 @@
       "Code": "CSC115",
       "Name": "C Programming",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -35,7 +35,7 @@
       "Code": "MTH117",
       "Name": "Mathematics I",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     },
     {

@@ -7,14 +7,14 @@
   "Semester": "Semester - II",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 3,
-  "SGPA": 0,
+  "SGPA": "",
   "DateOfIssue": "2025-02-12",
   "Subject": [
     {
       "Code": "STA169",
       "Name": "Statistics I",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     }
   ]

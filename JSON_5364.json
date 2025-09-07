@@ -21,28 +21,28 @@
       "Code": "CSC212",
       "Name": "Numerical Method",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "CSC213",
       "Name": "Computer Architecture",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "CSC214",
       "Name": "Computer Graphics",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
       "Code": "STA215",
       "Name": "Statistics II",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]

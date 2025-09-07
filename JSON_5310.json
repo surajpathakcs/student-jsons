@@ -7,7 +7,7 @@
   "Semester": "Semester - II",
   "Program": "Bachelors Degree in Computer Science and Information Technology",
   "TotalCreditHour": 15,
-  "SGPA": 0,
+  "SGPA": "",
   "DateOfIssue": "2025-02-12",
   "Subject": [
     {
@@ -35,7 +35,7 @@
       "Code": "MTH168",
       "Name": "Mathematics II",
       "CreditHours": 3,
-      "GradePoint": 0,
+      "GradePoint": 0.0,
       "Grade": "F"
     },
     {

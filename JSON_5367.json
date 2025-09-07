@@ -21,7 +21,7 @@
       "Code": "CSC212",
       "Name": "Numerical Method",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -42,7 +42,7 @@
       "Code": "STA215",
       "Name": "Statistics II",
       "CreditHours": 3,
-      "GradePoint": 33,
+      "GradePoint": 3.3,
       "Grade": "B+"
     }
   ]

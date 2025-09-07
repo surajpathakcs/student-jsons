@@ -14,7 +14,7 @@
       "Code": "CSC165",
       "Name": "Discrete Structure",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     },
     {
@@ -42,7 +42,7 @@
       "Code": "STA169",
       "Name": "Statistics I",
       "CreditHours": 3,
-      "GradePoint": 3,
+      "GradePoint": 3.0,
       "Grade": "B"
     }
   ]
